@@ -16,6 +16,7 @@
         <module>gmall-oms</module>
         <module>gmall-sms</module>
         <module>gmall-admin-web</module>
+        <module>gmall-mbg</module>
     </modules>
 
 
